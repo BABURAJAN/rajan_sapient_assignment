@@ -9,7 +9,7 @@
             def mvnHome
             stage(&apos;Preparation&apos;) { // for display purposes
             // Get some code from a GitHub repository
-            git &apos;https://github.com/BABURAJAN/rajan_sapient-assignment.git&apos;
+            git &apos;https://github.com/BABURAJAN/rajan_sapient_assignment.git&apos;
             // Get the Maven tool.
             // ** NOTE: This &apos;M3&apos; Maven tool must be configured
             // **       in the global configuration.
